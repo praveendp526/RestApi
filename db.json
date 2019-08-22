@@ -13,8 +13,9 @@
             "Project": "Ims",
         },
        {
-            "name": "Vetri",
-            "Project": "Ims",
+           "name": "Vetri",
+           "Project": "Ims",
         }
-        ]
+        ],
+    "company":"Terralogic"
 }
