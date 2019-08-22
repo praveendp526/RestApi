@@ -1,20 +1,14 @@
-    "results": [
-        {
-            "name": "Praveen",
-            "Project": "Ims",
-        },
-       {
-            "name": "Arun",
-            "Project": "Ims",
-        },
-       {
-            "name": "Anusha",
-            "Project": "Ims",
-        },
-       {
-            "name": "Vetri",
-            "Project": "Ims",
-        },
-
-    ]
+{
+  "names": [
+    { "id": 1, "title": "arun" },
+    { "id": 2, "title": "anusha" },
+    { "id": 3, "title": "Vetri" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "praveen"
+  }
 }
