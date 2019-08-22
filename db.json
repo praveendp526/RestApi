@@ -1,8 +1,8 @@
 {
   "names": [
-    { "id": 1, "title": "arun" },
-    { "id": 2, "title": "anusha" },
-    { "id": 3, "title": "Vetri" }
+    { "id": 1, "name": "arun" },
+    { "id": 2, "name": "anusha" },
+    { "id": 3, "name": "Vetri" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
