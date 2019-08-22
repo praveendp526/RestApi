@@ -1,10 +1,10 @@
 {
-  "names": [
+  "names": 
     "results": [
     { "id": 1, "title": "Arun" },
     { "id": 2, "title": "Anusha" },
     { "id": 3, "title": "Vetri" }
-  ],
+ 
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
