@@ -1,7 +1,21 @@
 {
-  "names":[
-    { "id": 1, "title": "Arun" },
-    { "id": 2, "title": "Anusha" },
-    { "id": 3, "title": "Vetri" }
-   ]
-  }
+    "results": [
+        {
+            "name": "Praveen",
+            "Project": "Ims",
+        },
+       {
+            "name": "Arun",
+            "Project": "Ims",
+        },
+       {
+            "name": "Anusha",
+            "Project": "Ims",
+        },
+       {
+            "name": "Vetri",
+            "Project": "Ims",
+        },
+     
+    ]
+}
